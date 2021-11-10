@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kepri Travel</string>
+    <string name="what_s_next">What\'s next</string>
+    <string name="destination_you_want_to_go">destination you want to go?</string>
+    <string name="popular_spot">Popular Spot</string>
+    <string name="see_all">See all</string>
+    <string name="todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+</resources>
