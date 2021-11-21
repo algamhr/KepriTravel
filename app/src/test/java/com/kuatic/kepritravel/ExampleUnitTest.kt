@@ -1,4 +1,4 @@
-package com.example.kepritravel
+package com.kuatic.kepritravel
 
 import org.junit.Test
 

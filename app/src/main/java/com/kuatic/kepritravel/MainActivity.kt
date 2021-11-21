@@ -1,4 +1,4 @@
-package com.example.kepritravel
+package com.kuatic.kepritravel
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
